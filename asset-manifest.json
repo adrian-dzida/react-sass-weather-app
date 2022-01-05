@@ -1,0 +1,33 @@
+{
+  "files": {
+    "main.css": "/react-sass-weather-app/static/css/main.cacbd58f.css",
+    "main.js": "/react-sass-weather-app/static/js/main.75e15a5e.js",
+    "static/js/787.cf7515d5.chunk.js": "/react-sass-weather-app/static/js/787.cf7515d5.chunk.js",
+    "static/media/thunderbolt-1905603.png": "/react-sass-weather-app/static/media/thunderbolt-1905603.2687d7a27c68d051a793.png",
+    "static/media/thunderbolt-1905603_1280.png": "/react-sass-weather-app/static/media/thunderbolt-1905603_1280.f3e0e8e02eb31d6f3fde.png",
+    "static/media/sky-414199.jpg": "/react-sass-weather-app/static/media/sky-414199.17e60a45e2cf45e1fe5f.jpg",
+    "static/media/sky-583724_1920.jpg": "/react-sass-weather-app/static/media/sky-583724_1920.f1dc0d86420703697d85.jpg",
+    "static/media/winter-260817_1920.jpg": "/react-sass-weather-app/static/media/winter-260817_1920.f0d375861b27b8f58b3b.jpg",
+    "static/media/blue-sky-299764_1920.jpg": "/react-sass-weather-app/static/media/blue-sky-299764_1920.f7a516d68dc20064582d.jpg",
+    "static/media/thunderbolt-1905603_640.png": "/react-sass-weather-app/static/media/thunderbolt-1905603_640.1b8d606826984d9affe9.png",
+    "static/media/african-skies-4535907_1920.jpg": "/react-sass-weather-app/static/media/african-skies-4535907_1920.c5767ba806621a6bc43b.jpg",
+    "static/media/winter-260817_1280.jpg": "/react-sass-weather-app/static/media/winter-260817_1280.6e66dab89f1784f7fb63.jpg",
+    "static/media/sky-583724_1280.jpg": "/react-sass-weather-app/static/media/sky-583724_1280.f6690f8ae13e25be2402.jpg",
+    "static/media/blue-sky-299764_1280.jpg": "/react-sass-weather-app/static/media/blue-sky-299764_1280.d735055e22f11f07ba41.jpg",
+    "static/media/sky-414199_1280.jpg": "/react-sass-weather-app/static/media/sky-414199_1280.955e5df4db4a3b70a533.jpg",
+    "static/media/african-skies-4535907_1280.jpg": "/react-sass-weather-app/static/media/african-skies-4535907_1280.942ac71cd51df6fe1dcf.jpg",
+    "static/media/winter-260817_640.jpg": "/react-sass-weather-app/static/media/winter-260817_640.acc027733861b426a1aa.jpg",
+    "static/media/sky-583724_640.jpg": "/react-sass-weather-app/static/media/sky-583724_640.fdb2f7d4c3fcad075482.jpg",
+    "static/media/sky-414199_640.jpg": "/react-sass-weather-app/static/media/sky-414199_640.e91596c84ea753696d72.jpg",
+    "static/media/blue-sky-299764_640.jpg": "/react-sass-weather-app/static/media/blue-sky-299764_640.15894cd4d176d67d65d9.jpg",
+    "static/media/african-skies-4535907_640.jpg": "/react-sass-weather-app/static/media/african-skies-4535907_640.4abaca40ea377c9127b0.jpg",
+    "index.html": "/react-sass-weather-app/index.html",
+    "main.cacbd58f.css.map": "/react-sass-weather-app/static/css/main.cacbd58f.css.map",
+    "main.75e15a5e.js.map": "/react-sass-weather-app/static/js/main.75e15a5e.js.map",
+    "787.cf7515d5.chunk.js.map": "/react-sass-weather-app/static/js/787.cf7515d5.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cacbd58f.css",
+    "static/js/main.75e15a5e.js"
+  ]
+}

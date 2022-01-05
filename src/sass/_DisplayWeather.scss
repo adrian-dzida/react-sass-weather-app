@@ -1,0 +1,42 @@
+.weatherbox {
+  @include flexColumnCenterItems();
+  margin: 50px;
+  color: $text-color;
+
+  &__time {
+    font-size: 2.5rem;
+    margin-top: 20px;
+    text-shadow: 1px 1px $shadow-color;
+  }
+
+  &__date {
+    text-shadow: 1px 1px $shadow-color;
+  }
+
+  &__info {
+    @include flexColumnCenterItems();
+    justify-content: space-between;
+    background-color: rgba(0, 0, 0, 0.3);
+    width: 250px;
+    min-height: 250px;
+    border-radius: 10px;
+    box-shadow: 0 0 1.2em $shadow-color;
+    padding: 15px;
+  }
+
+  &__location {
+    font-size: 20px;
+    text-shadow: 2px 2px 2px $shadow-color;
+  }
+
+  &__temp {
+    font-size: 80px;
+    text-shadow: 3px 3px 2px $shadow-color;
+    font-family: Comfortaa, monospace;
+  }
+
+  &__state {
+    font-size: 30px;
+    text-shadow: 2px 2px 2px $shadow-color;
+  }
+}

@@ -1,0 +1,35 @@
+.form {
+  display: inline-flex;
+
+  &__search-input {
+    width: 250px;
+    padding: 10px;
+    border: none;
+    outline: none;
+    opacity: 0.5;
+    text-align: center;
+    transition: all 0.3s ease-in;
+    &:focus {
+      opacity: 0.9;
+    }
+  }
+
+  &__search-btn {
+    border: none;
+    outline: none;
+    background-color: #fff;
+    opacity: 0.5;
+    width: 35px;
+    cursor: pointer;
+    transition: all 0.3s ease-out;
+
+    &:hover {
+      opacity: 0.9;
+      background-color: rgb(119, 217, 255);
+    }
+
+    &:active {
+      background-color: #fff;
+    }
+  }
+}

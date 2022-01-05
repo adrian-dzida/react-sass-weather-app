@@ -1,0 +1,90 @@
+.app {
+  @include flexColumnCenterItems();
+  padding: 50px;
+  min-width: 100%;
+  min-height: 100vh;
+  transition: background-image 0.2s linear;
+  @include bcgsettings();
+
+  @media screen and (max-width: 640px) {
+    background-image: url(../img/main/sky-583724_640.jpg);
+  }
+
+  @media screen and (max-width: 1280px) {
+    background-image: url(../img/main/sky-583724_1280.jpg);
+  }
+
+  @media screen and (min-width: 1281px) {
+    background-image: url(../img/main/sky-583724_1920.jpg);
+  }
+}
+
+.rain {
+  @media screen and (max-width: 640px) {
+    background-image: url(../img/rain/african-skies-4535907_640.jpg);
+  }
+
+  @media screen and (max-width: 1280px) {
+    background-image: url(../img/rain/african-skies-4535907_1280.jpg);
+  }
+
+  @media screen and (min-width: 1281px) {
+    background-image: url(../img/rain/african-skies-4535907_1920.jpg);
+  }
+}
+
+.clouds {
+  @media screen and (max-width: 640px) {
+    background-image: url(../img/clouds/sky-414199_640.jpg);
+  }
+
+  @media screen and (max-width: 1280px) {
+    background-image: url(../img/clouds/sky-414199_1280.jpg);
+  }
+
+  @media screen and (min-width: 1281px) {
+    background-image: url(../img/clouds/sky-414199.jpg);
+  }
+}
+
+.clear {
+  @media screen and (max-width: 640px) {
+    background-image: url(../img/clear/blue-sky-299764_640.jpg);
+  }
+
+  @media screen and (max-width: 1280px) {
+    background-image: url(../img/clear/blue-sky-299764_1280.jpg);
+  }
+
+  @media screen and (min-width: 1281px) {
+    background-image: url(../img/clear/blue-sky-299764_1920.jpg);
+  }
+}
+
+.snow {
+  @media screen and (max-width: 640px) {
+    background-image: url(../img/snow/winter-260817_640.jpg);
+  }
+
+  @media screen and (max-width: 1280px) {
+    background-image: url(../img/snow/winter-260817_1280.jpg);
+  }
+
+  @media screen and (min-width: 1281px) {
+    background-image: url(../img/snow/winter-260817_1920.jpg);
+  }
+}
+
+.thunder {
+  @media screen and (max-width: 640px) {
+    background-image: url(../img/thunder/thunderbolt-1905603_640.png);
+  }
+
+  @media screen and (max-width: 1280px) {
+    background-image: url(../img/thunder/thunderbolt-1905603_1280.png);
+  }
+
+  @media screen and (min-width: 1281px) {
+    background-image: url(../img/thunder/thunderbolt-1905603.png);
+  }
+}
